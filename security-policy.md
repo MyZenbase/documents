@@ -1,6 +1,6 @@
 # Zenbase Security Policy 🔐
 
-Our security policy is not a legal document full of long hard-to-read statements. It's an easy to follow set of guidelines and rules that merely summarise practices alrady in use. When some part of this document is still in implementation phase, it's stated so.
+Our security policy is not a legal document full of long hard-to-read statements. It's an easy to follow set of guidelines and rules that merely summarise practices already in use. When some part of this document is still in implementation phase, it's stated so.
 
 ## General Policy
 
