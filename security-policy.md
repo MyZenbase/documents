@@ -30,7 +30,7 @@ Especially for software development, the following policies and guidelines canno
 ### Development process
 
 - All proprietary company source code is stored in Github under company’s private repository
-- All secrets (DB passwords, API keys, etc.) are stored in a secure cloud storage only accessible to CI/CD tools and to developers on “as needed” basis
+- All secrets for production environment (DB passwords, API keys, etc.) are stored in a secure cloud storage only accessible to CI/CD tools and to developers on “as needed” basis
 
 ### Cloud Infrastructure
 
